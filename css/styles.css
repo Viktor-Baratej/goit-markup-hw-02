@@ -89,6 +89,7 @@ a {
 .header-contacts-link {
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 .header-contacts-link:hover,
