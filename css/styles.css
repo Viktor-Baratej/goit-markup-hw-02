@@ -82,6 +82,9 @@ a {
   color: #404bbf;
 }
 
+.header-contacts {
+  font-style: normal;
+}
 .nav-menu-link.is-active {
   color: #404bbf;
 }
@@ -89,7 +92,6 @@ a {
 .header-contacts-link {
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 
 .header-contacts-link:hover,
